@@ -36,4 +36,4 @@ print(f'General solve Time: {linalg_time:.6f} seconds') # 0.669566 seconds
 print(f'Symmetric solve Time: {solve_sym_time:.6f} seconds') # 1.184631 seconds
 print(f'Symmetric positive definite solve Time: {solve_pos_time:.6f} seconds') # 0.468433 seconds
 print(f'Manually Cholesky Decomposition Time: {cholesky_time:.6f} seconds') # 0.369518 seconds
-print(f'LDL Decomposition Time: {ldl_time:.6f} seconds') # 0.369518 seconds
+#print(f'LDL Decomposition Time: {ldl_time:.6f} seconds') # 0.369518 seconds
